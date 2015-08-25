@@ -1,0 +1,43 @@
+{"BankCollection":
+   [
+    {
+   "bankID":"033",
+   "bankCountry":"USA",
+   "bankName":"Bank of America, NA",
+   "region":"NY",
+   "street":"Atlantic Avenue",
+   "city":"New York"
+   },  
+   {
+   "bankID":"031",
+   "bankCountry":"USA",
+   "bankName":"Citibank, NA",
+   "region":"CA",
+   "street":"Brooklyn Wood",
+   "city":"Los Angeles"
+   },
+   {
+   "bankID":"067",
+   "bankCountry":"GER",
+   "bankName":"Deutsche Bank, AG",
+   "region":"FR",
+   "street":"Dietzenbatcher",
+   "city":"Frankfurt"
+   },
+   {
+   "bankID":"032",
+   "bankCountry":"USA",
+   "bankName":"JP. Morgan Chase Bank, NA",
+   "region":"NY",
+   "street":"Manhattan Avenue",
+   "city":"New York"
+   },
+   {
+   "bankID":"042",
+   "bankCountry":"JPN",
+   "bankName":"The Bank of Tokyo Mitsubishi UFJ LTD",
+   "region":"TY",
+   "street":"Seibu Shinjuku",
+   "city":"Tokyo"
+   }      
+]}
